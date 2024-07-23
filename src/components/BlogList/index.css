@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.second-list{
+    margin-top: 5%;
+    width: 75vw;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.inner-container{
+    display: flex;
+    justify-content: space-between;
+}
+.second-el{
+    margin-bottom: 5%;
+    width: 70vw;
+}
+.para{
+    font-size: 20px;
+    font-family: "Roboto";
+    color: grey;
+    text-align: left;
+}
+.main-heading{
+    color: #551e53;
+    font-family: "Roboto";
+}

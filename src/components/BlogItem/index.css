@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.second-list {
+  margin-top: 5%;
+  width: 75vw;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
